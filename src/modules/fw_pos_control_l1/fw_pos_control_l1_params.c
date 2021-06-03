@@ -445,7 +445,7 @@ PARAM_DEFINE_FLOAT(FW_AIRSPD_MIN, 10.0f);
  * @increment 0.5
  * @group FW TECS
  */
-PARAM_DEFINE_FLOAT(FW_AIRSPD_MAX, 20.0f);
+PARAM_DEFINE_FLOAT(FW_AIRSPD_MAX, 55.0f);
 
 /**
  * Cruise Airspeed
@@ -454,7 +454,7 @@ PARAM_DEFINE_FLOAT(FW_AIRSPD_MAX, 20.0f);
  *
  * @unit m/s
  * @min 0.0
- * @max 40
+ * @max 55
  * @decimal 1
  * @increment 0.5
  * @group FW TECS
