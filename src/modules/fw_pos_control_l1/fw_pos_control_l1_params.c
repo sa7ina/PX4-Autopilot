@@ -718,9 +718,9 @@ PARAM_DEFINE_FLOAT(FW_T_SRATE_P, 0.02f);
  *
  * @unit m/s
  * @min 0.0
- * @max 40
+ * @max 55
  * @decimal 1
  * @increment 0.5
  * @group FW TECS
  */
-PARAM_DEFINE_FLOAT(FW_GND_SPD_MIN, 5.0f);
+PARAM_DEFINE_FLOAT(FW_GND_SPD_MIN, 55.0f);
