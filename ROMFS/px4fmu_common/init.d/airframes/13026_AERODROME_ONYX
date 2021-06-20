@@ -11,8 +11,8 @@
 # @output MAIN2 motor 2
 # @output MAIN3 motor 3
 # @output MAIN4 motor 4
-# @output MAIN5 Elevator 1
-# @output MAIN6 Elevator 2
+# @output MAIN5 Elevator
+# @output MAIN6 Elevator
 # @output AUX1 Aileron 1
 # @output AUX2 Aileron 2
 # @output AUX3 Rudder
