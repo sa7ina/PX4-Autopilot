@@ -1,6 +1,7 @@
-# BabyShark VTOL mixer for PX4FMU
-# 1-4 (main): Ailerons (Y-cable), A-tail left, Pusher, A-tail right
+# AERODROME VTOL EFI PENGUIN B mixer for PX4FMU
+# 1-4 (main): Aileron left, A-tail left, Pusher, A-tail right
 # 5-8 (main): quad motors
+# 3 (aux): Aileron right
 #=============================
 
 
