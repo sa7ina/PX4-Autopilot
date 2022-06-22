@@ -1,11 +1,11 @@
 #!/bin/sh
 #
-# @name AERODROME PENGUIN B EFI VTOL
+# @name AERODROME VTOL EFI PENGUIN B
 #
 # @type Standard VTOL
 # @class VTOL
 #
-# @maintainer Yaniv Sneh <yaniv.sneh@gmail.com>
+# @maintainer Yaniv Sneh <yanivs@aerodrome-ops.com>
 #
 # @output MAIN1 Aileron left
 # @output MAIN2 A-tail left
@@ -108,7 +108,7 @@ param set-default VT_TYPE 2
 
 set MAV_TYPE 22
 
-set MIXER babyshark
+set MIXER AERODROME_VTOL_EFI_PENGUIN_B
 set MIXER_AUX pass
 
 # Mark outputs for the alternate rate
