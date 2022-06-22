@@ -1,9 +1,7 @@
 # AERODROME VTOL EFI PENGUIN B mixer for PX4FMU
-# 1-4 (main): Aileron left, A-tail left, Pusher, A-tail right
-# 5-8 (main): quad motors
-# 3 (aux): Aileron right
+# 1-4 (main): quad motors
+# 1-5 (aux): Aileron left, Aileron right, A-tail left, A-tail right, Pusher
 #=============================
-
 
 Aileron mixer (roll)
 ---------------------------------
