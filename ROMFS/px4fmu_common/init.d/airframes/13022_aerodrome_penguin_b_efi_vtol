@@ -26,7 +26,7 @@
 
 set MAV_TYPE 22
 
-set MIXER AERODROME_VTOL_EFI_PENGUIN_B
+set MIXER aerodrome_penguin_b_efi_vtol
 set MIXER_AUX pass
 
 # Mark outputs for the alternate rate
