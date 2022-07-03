@@ -32,6 +32,7 @@
 ############################################################################
 
 set(geometry_files
+        aerodrome_penguin_b_efi_vtol.toml
 	dodeca_bottom_cox.toml
 	dodeca_top_cox.toml
 	hex_cox.toml
